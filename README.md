@@ -6,7 +6,7 @@ Um aplicativo para explorar e conhecer pontos turísticos ao redor do mundo, com
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Turismo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-# 🌍 Turismo 
+# 🌍 Projeto
 
 Desenvolvido para apresentar pontos turísticos de diferentes regiões, oferecendo informações detalhadas e imagens de cada local. Com uma interface intuitiva, ele permite que os usuários descubram novos destinos, conheçam sua história e se inspirem para futuras viagens.
 
